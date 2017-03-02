@@ -1,0 +1,382 @@
+filename,instance,Positive Prewords,Negative Prewords,Contain Negative,len of char,All capatalized,len of words,including digit,labels
+16.txt,restaurant,0,0,0,10,0,1,0,0
+16.txt,Gracias Madre,0,0,0,13,1,2,0,1
+16.txt,Gracias Madre,0,0,0,13,1,2,0,1
+16.txt,necessity,0,0,0,9,0,1,0,0
+87.txt,Fishing With Dynamite,0,0,-2,21,1,3,0,1
+87.txt,Love and Salt,0,0,0,13,0,3,0,1
+87.txt,Love and Salt,0,0,0,13,0,3,0,1
+87.txt,sooooooo,0,0,0,8,0,1,0,0
+87.txt,top 15,0,0,0,6,0,2,1,0
+161.txt,Casa Nostra,0,0,0,11,1,2,0,1
+161.txt,Pantry CafÃ©,0,0,0,12,1,2,1,1
+161.txt,Casa Nostra,0,0,0,11,1,2,0,1
+161.txt,rated Italian,0,0,0,13,0,2,0,0
+161.txt,blended,0,-2,0,7,0,1,0,0
+95.txt,Erven,1,0,0,5,1,1,0,1
+95.txt,Saint Martha,0,0,-2,12,1,2,0,1
+95.txt,Erven,0,0,0,5,1,1,0,1
+95.txt,Erven's,0,0,0,7,1,1,1,1
+95.txt,Erven,0,0,0,5,1,1,0,1
+95.txt,pastries and juices,1,0,0,19,0,3,0,0
+95.txt,salads,0,0,0,6,0,1,0,0
+164.txt,Corazon,0,0,-2,7,1,1,0,1
+164.txt,margaritas,0,0,0,10,0,1,0,0
+164.txt,selection,0,0,-2,9,0,1,0,0
+164.txt,Corazon,0,0,-2,7,1,1,0,1
+164.txt,Corazon,1,0,-2,7,1,1,0,1
+23.txt,Mar¨¦,0,0,0,5,1,1,1,1
+23.txt,Melrose Avenue,0,-2,0,14,1,2,0,0
+23.txt,Santa Monica,0,-2,-2,12,1,2,0,0
+23.txt,European city,0,0,0,13,0,2,0,0
+23.txt,Mar¨¦,0,0,0,5,1,1,1,1
+23.txt,brain-child,0,0,-2,11,0,1,1,0
+23.txt,Eric Greenspan,0,-2,0,14,1,2,0,0
+23.txt,Mar¨¦¡¯s,0,-2,0,8,1,1,1,1
+23.txt,Melrose location,0,0,-2,16,0,2,0,0
+1.txt,Kali,1,0,0,4,1,1,0,1
+1.txt,Melrose,0,-2,0,7,1,1,0,0
+1.txt,Patina,0,0,-2,6,1,1,0,1
+1.txt,Kevin Meehan,0,-2,-2,12,1,2,0,0
+1.txt,Kali,1,0,0,4,1,1,0,1
+1.txt,California,0,-2,0,10,1,1,0,0
+1.txt,Kali's,0,-2,0,6,1,1,1,1
+1.txt,New England,0,0,0,11,1,2,0,0
+46.txt,focaccia-by-the-slice,0,0,0,21,0,1,1,0
+46.txt,Di Alba,0,0,0,7,1,2,0,1
+46.txt,Toppings,0,0,-2,8,1,1,0,0
+46.txt,Di Alba,0,0,0,7,1,2,0,1
+18.txt,great restaurant,0,0,0,16,0,2,0,0
+18.txt,Salazar's,0,0,0,9,1,1,1,1
+18.txt,Salazar's,0,0,0,9,1,1,1,1
+18.txt,Sonoran-style,0,0,-2,13,1,1,1,0
+18.txt,carne asada,0,0,0,11,0,2,0,0
+18.txt,flour tortillas,0,-2,0,15,0,2,0,0
+39.txt,Hollywood Blvd,0,0,-2,14,1,2,0,0
+39.txt,killer daytime,0,0,0,14,0,2,0,0
+39.txt,Kismet,0,0,0,6,1,1,0,1
+39.txt,Madcapra,0,-2,0,8,1,1,0,1
+39.txt,Animal,0,0,0,6,1,1,0,1
+39.txt,avocado toast,0,0,0,13,0,2,0,0
+195.txt,Wabi-Sabi,0,0,0,9,1,1,1,1
+195.txt,flavor,0,-2,0,6,0,1,0,0
+195.txt,Wabi Sabi,0,0,0,9,1,2,0,1
+195.txt,Wabi Sabi,0,0,0,9,1,2,0,1
+22.txt,Kali,0,0,0,4,1,1,0,1
+22.txt,Kevin Meehan,0,-2,-2,12,1,2,0,0
+22.txt,Michelin-starred restaurant,0,0,-2,27,0,2,1,1
+22.txt,Kevin¡¯s,0,-2,-2,8,1,1,1,0
+22.txt,Kali,0,0,0,4,1,1,0,1
+22.txt,Kali,0,-2,0,4,1,1,0,1
+22.txt,charred avocado,0,0,0,15,0,2,0,0
+50.txt,LA¡¯s,0,0,-2,5,1,1,1,0
+50.txt,Angelini Osteria,0,0,-2,16,1,2,0,1
+50.txt,on Beverly,0,0,-2,10,0,2,0,0
+50.txt,Alimentari,0,0,0,10,1,1,0,1
+50.txt,coffee,0,0,0,6,0,1,0,0
+136.txt,Madtro's Steakhouse,0,0,0,19,1,2,1,1
+136.txt,place,0,0,0,5,0,1,0,0
+136.txt,Mastroâ€™s Steakhouse,0,0,0,21,1,2,1,1
+136.txt,Mastro's Steakhouse,0,0,0,19,1,2,1,1
+123.txt,Officine Brera,0,0,-2,14,1,2,0,1
+123.txt,countryside,0,0,0,11,0,1,0,0
+123.txt,Officine Brera,0,0,-2,14,1,2,0,1
+123.txt,Officine Brera,0,-2,-2,14,1,2,0,1
+123.txt,traffic-diverting,0,0,-2,17,0,1,1,0
+147.txt,Sushi Roku,0,0,0,10,1,2,0,1
+147.txt,provided,0,0,0,8,0,1,0,0
+147.txt,traditional,1,0,-2,11,0,1,0,0
+147.txt,Sushi Roku,0,0,0,10,1,2,0,1
+147.txt,Sushi Rokuâ€™s,0,0,0,14,1,2,1,1
+26.txt,Salazar,0,0,0,7,1,1,0,1
+26.txt,Mexican mesquite,1,0,0,16,0,2,0,0
+26.txt,Esdras Ochoa,0,-2,0,12,1,2,0,0
+26.txt,Brandi Boles,0,-2,0,12,1,2,0,0
+26.txt,classic Mexican,0,-2,0,15,0,2,0,0
+26.txt,Salazar,1,0,0,7,1,1,0,1
+163.txt,POP Champagne Bar & Restaurant,0,0,0,30,0,5,1,1
+163.txt,POP,0,0,0,3,1,1,0,1
+163.txt,POPâ€™s,0,0,0,7,1,1,1,1
+163.txt,appetizers,0,0,0,10,0,1,0,0
+163.txt,goes,0,0,0,4,0,1,0,0
+36.txt,Zucca,0,0,0,5,1,1,0,1
+36.txt,DineLA,0,0,-2,6,1,1,0,0
+36.txt,proscuitto plate,0,0,0,16,0,2,0,0
+36.txt,mushroom sauce,0,0,0,14,0,2,0,0
+36.txt,Zucca,0,0,0,5,1,1,0,1
+96.txt,71Above,0,0,0,7,0,1,1,1
+96.txt,Los Angeles,0,0,-2,11,1,2,0,0
+96.txt,71Above,1,0,0,7,0,1,1,1
+96.txt,71Above,1,0,0,7,0,1,1,1
+96.txt,71Above,0,0,0,7,0,1,1,1
+104.txt,Hollywood Blvd,0,0,-2,14,1,2,0,1
+104.txt,Kismet,0,0,0,6,1,1,0,1
+104.txt,Tsubaki,0,0,0,7,1,1,0,1
+104.txt,Middle Eastern,0,0,0,14,1,2,0,0
+148.txt,ROKU,0,0,0,4,1,1,0,1
+148.txt,ROKUâ€™s,0,0,0,8,1,1,1,1
+148.txt,menu,0,0,0,4,0,1,0,0
+148.txt,experiencing,0,0,-2,12,0,1,0,0
+148.txt,ROKU,0,0,0,4,1,1,0,1
+148.txt,ROKUâ€™s,0,0,0,8,1,1,1,1
+148.txt,Roku,0,0,0,4,1,1,0,1
+15.txt,Cadet,1,0,0,5,1,1,0,1
+15.txt,lists,0,0,0,5,0,1,0,0
+15.txt,Cadet,0,0,0,5,1,1,0,1
+15.txt,Tar&Roses,0,0,0,9,1,1,1,1
+15.txt,baffling,0,0,-2,8,0,1,0,0
+154.txt,Gangadin,0,0,-2,8,1,1,0,1
+154.txt,Gangadin,0,0,-2,8,1,1,0,1
+154.txt,Gangadin,0,0,-2,8,1,1,0,1
+154.txt,preservatives,0,0,0,13,0,1,0,0
+154.txt,homemade,0,-2,0,8,0,1,0,0
+156.txt,208 Rodeo,0,0,0,9,0,2,1,1
+156.txt,casual dining,0,0,-2,13,0,2,0,0
+156.txt,208 Rodeo,0,-2,0,9,0,2,1,1
+156.txt,relaxing,0,0,-2,8,0,1,0,0
+156.txt,208 Rodeo,0,-2,0,9,0,2,1,1
+192.txt,Farfalla Westlake,0,0,0,17,1,2,0,1
+192.txt,beautifully,0,0,0,11,0,1,0,0
+192.txt,Farfalla Westlake,0,0,0,17,1,2,0,1
+192.txt,intimate,0,0,-2,8,0,1,0,0
+192.txt,Farfalla Westlake,1,0,0,17,1,2,0,1
+149.txt,Crossings,0,0,-2,9,1,1,0,1
+149.txt,Crossings,0,0,-2,9,1,1,0,1
+149.txt,structure,0,0,0,9,0,1,0,0
+149.txt,between the first,0,0,0,17,0,3,0,0
+66.txt,Sushi Kingz,1,0,-2,11,1,2,0,1
+66.txt,The place,0,0,0,9,0,2,0,0
+66.txt,Sushi Kingz,1,0,-2,11,1,2,0,1
+66.txt,food,0,0,0,4,0,1,0,0
+155.txt,Ports Oâ€™ Call,0,0,0,15,1,3,1,1
+155.txt,Ports Oâ€™ Call,0,0,0,15,1,3,1,1
+155.txt,guests,0,0,0,6,0,1,0,0
+155.txt,Ports O Call,0,0,0,12,1,3,0,1
+155.txt,skilled,0,0,0,7,0,1,0,0
+89.txt,Jun Won,0,0,-2,7,1,2,0,1
+89.txt,Canele,0,0,0,6,1,1,0,1
+89.txt,Canele,0,0,0,6,1,1,0,1
+89.txt,Chunju Hanilkwan,0,0,0,16,1,2,0,1
+89.txt,Jun Won,0,0,-2,7,1,2,0,1
+89.txt,Jun Won,0,0,-2,7,1,2,0,1
+89.txt,dishes,0,0,0,6,0,1,0,0
+89.txt,Jun Won,1,0,-2,7,1,2,0,1
+89.txt,these restaurants,0,0,0,17,0,2,0,0
+89.txt,Borneo Kalimantan,1,0,0,17,1,2,0,1
+89.txt,Lu¡¯s Garden,0,0,0,12,1,2,1,1
+89.txt,India¡¯s Flavor,0,0,0,15,1,2,1,1
+89.txt,LA,0,0,-2,2,1,1,0,0
+56.txt,Loqui,0,0,0,5,1,1,0,1
+56.txt,Loqui,0,0,0,5,1,1,0,1
+56.txt,Culver City¡¯s,0,0,0,14,1,2,1,0
+56.txt,tacos,0,0,0,5,0,1,0,0
+133.txt,The Morrison,0,0,-2,12,1,2,0,1
+133.txt,Glendale,1,0,0,8,1,1,0,1
+133.txt,never,0,0,0,5,0,1,0,0
+133.txt,visiting,0,0,-2,8,0,1,0,0
+133.txt,the Morrison,0,0,-2,12,0,2,0,1
+120.txt,Wolf,0,-2,0,4,1,1,0,1
+120.txt,another standout,0,0,0,16,0,2,0,0
+120.txt,while,0,-2,0,5,0,1,0,0
+120.txt,Wolf,0,-2,0,4,1,1,0,1
+120.txt,Wolf,0,0,0,4,1,1,0,1
+3.txt,Howlin Ray's,0,0,-2,12,1,2,1,1
+3.txt,truck¨Cturned¨Cbrick-and-mortar,0,0,0,31,0,1,1,0
+3.txt,Nashville,0,0,0,9,1,1,0,0
+3.txt,Howlin Ray's,0,0,-2,12,1,2,1,1
+3.txt,hot chicken,1,0,0,11,0,2,0,0
+3.txt,Howlin Ray's,0,0,-2,12,1,2,1,1
+3.txt,Howlin Ray's,0,0,-2,12,1,2,1,1
+78.txt,Mar¨¦,0,0,0,5,1,1,1,1
+78.txt,Melrose Avenue,0,-2,0,14,1,2,0,0
+78.txt,Santa Monica,0,-2,-2,12,1,2,0,0
+78.txt,European city,0,0,0,13,0,2,0,0
+78.txt,Mar¨¦,0,0,0,5,1,1,1,1
+78.txt,brain-child,0,0,-2,11,0,1,1,0
+78.txt,Eric Greenspan,0,-2,0,14,1,2,0,0
+78.txt,Mar¨¦¡¯s,0,-2,0,8,1,1,1,1
+78.txt,Melrose location,0,0,-2,16,0,2,0,0
+60.txt,restaurants in the city,0,0,-2,23,0,4,0,0
+60.txt,Bowery Bungalow,0,0,0,15,1,2,0,1
+60.txt,Bowery,0,0,0,6,1,1,0,1
+60.txt,Farida¡¯s,0,0,0,9,1,1,1,1
+60.txt,North African,0,0,0,13,1,2,0,0
+157.txt,CIRCA 55,0,0,0,8,0,2,1,1
+157.txt,CIRCA 55,0,0,0,8,0,2,1,1
+157.txt,upscale dinner,0,0,-2,14,0,2,0,0
+157.txt,pool,0,0,0,4,0,1,0,0
+157.txt,CIRCA 55,1,0,0,8,0,2,1,1
+97.txt,Kali,1,0,0,4,1,1,0,1
+97.txt,Patina,0,0,-2,6,1,1,0,1
+97.txt,Kevin Meehan,0,-2,-2,12,1,2,0,0
+97.txt,Kali,1,0,0,4,1,1,0,1
+97.txt,California,0,-2,0,10,1,1,0,0
+97.txt,Kali's,0,-2,0,6,1,1,1,1
+179.txt,Pizzeria Mozza,0,0,0,14,1,2,0,1
+179.txt,Pizzeria Mozza,0,0,0,14,1,2,0,1
+179.txt,perfect,0,0,0,7,0,1,0,0
+179.txt,night,1,0,0,5,0,1,0,0
+179.txt,Pizzeria Mozza,0,0,0,14,1,2,0,1
+186.txt,Sur Restaurant,0,0,0,14,1,2,0,1
+186.txt,comfort,0,0,0,7,0,1,0,0
+186.txt,Sur Restaurant,0,0,0,14,1,2,0,1
+186.txt,attentive,0,0,0,9,0,1,0,0
+186.txt,Sur Restaurant,0,0,0,14,1,2,0,1
+186.txt,Sur Restaurant,0,0,0,14,1,2,0,1
+68.txt,The crunch,0,0,0,10,0,2,0,0
+68.txt,juiciness,0,0,-2,9,0,1,0,0
+68.txt,Howlin¡¯ Ray¡¯s,0,0,-2,15,1,2,1,1
+68.txt,Nashville hot,0,0,0,13,0,2,0,0
+68.txt,Howlin¡¯ Ray¡¯s,0,0,-2,15,1,2,1,1
+68.txt,Johnny Ray Zone,0,-2,-2,15,1,3,0,0
+54.txt,but,0,0,0,3,0,1,0,0
+54.txt,Trois Mec,0,0,0,9,1,2,0,1
+54.txt,Kato,0,0,0,4,1,1,0,1
+54.txt,sukiyaki-inspired soup,0,0,-2,22,0,2,1,0
+191.txt,Dal Rae,0,0,0,7,1,2,0,1
+191.txt,tableside,0,0,0,9,0,1,0,0
+191.txt,Dal Rae,0,0,0,7,1,2,0,1
+191.txt,right,1,0,0,5,0,1,0,0
+191.txt,Dal Rae,0,0,0,7,1,2,0,1
+108.txt,Tatsu,1,0,0,5,1,1,0,1
+108.txt,EAK,0,0,0,3,1,1,0,1
+108.txt,EAK,0,0,0,3,1,1,0,1
+69.txt,Honeybird,0,0,-2,9,1,1,0,1
+69.txt,fried chicken,1,0,0,13,0,2,0,0
+69.txt,Honeybird¡¯s,0,0,-2,12,1,1,1,1
+69.txt,The slightly,0,0,0,12,0,2,0,0
+13.txt,Very nice list,0,0,0,14,0,3,0,0
+13.txt,New York,0,-2,0,8,1,2,0,0
+13.txt,European cities,0,0,0,15,0,2,0,0
+13.txt,Columbus Day holiday,0,0,0,20,0,3,0,0
+13.txt,Zarate,0,0,0,6,1,1,0,1
+13.txt,Lincoln Blvd,0,-2,-2,12,1,2,0,0
+13.txt,La Paella,1,0,0,9,1,2,0,1
+13.txt,Burton Way,0,-2,-2,10,1,2,0,0
+151.txt,STK,0,0,0,3,1,1,0,1
+151.txt,furnished,0,0,0,9,0,1,0,0
+151.txt,elevated,0,0,0,8,0,1,0,0
+151.txt,STK,0,0,0,3,1,1,0,1
+151.txt,STK,0,0,0,3,1,1,0,1
+118.txt,Erven,0,0,0,5,1,1,0,1
+118.txt,Erven,0,0,0,5,1,1,0,1
+118.txt,setting,0,0,-2,7,0,1,0,0
+118.txt,Erven,0,0,0,5,1,1,0,1
+118.txt,sauerkraut,0,0,0,10,0,1,0,0
+118.txt,Erven,0,0,0,5,1,1,0,1
+118.txt,Erven,0,0,0,5,1,1,0,1
+53.txt,Cahuenga,0,-2,0,8,1,1,0,1
+53.txt,Birch,1,0,0,5,1,1,0,1
+53.txt,impressive,0,0,0,10,0,1,0,0
+53.txt,and,1,0,0,3,0,1,0,0
+53.txt,ricotta gnocchi,0,0,0,15,0,2,0,0
+91.txt,David Schlosser,0,-2,0,15,1,2,0,0
+91.txt,Shibumi,1,0,0,7,1,1,0,1
+91.txt,Shibumi,0,0,0,7,1,1,0,1
+91.txt,Shibumi,0,0,0,7,1,1,0,1
+91.txt,Grilled pork,0,0,0,12,0,2,0,0
+91.txt,Shibumi,0,0,0,7,1,1,0,1
+138.txt,Royâ€™s,0,0,0,7,1,1,1,1
+138.txt,around,0,-2,0,6,0,1,0,0
+138.txt,expertly prepared,0,0,0,17,0,2,0,0
+138.txt,Roy's Pasadena,1,0,0,14,1,2,1,1
+124.txt,Salazarâ€™s,0,0,0,11,1,1,1,1
+124.txt,Aaron Melendrez,0,-2,-2,15,1,2,0,1
+124.txt,The Normandie Club,1,0,0,18,1,3,0,1
+124.txt,Modernica,0,-2,0,9,1,1,0,1
+124.txt,industry,0,0,-2,8,0,1,0,0
+124.txt,Salazar,0,0,0,7,1,1,0,1
+199.txt,lukshon,0,0,-2,7,0,1,0,1
+199.txt,lukshon,0,0,-2,7,0,1,0,1
+199.txt,brainchild,0,0,-2,10,0,1,0,0
+199.txt,modern,0,0,0,6,0,1,0,0
+187.txt,Irori Sushi,0,0,0,11,1,2,0,1
+187.txt,Iroriâ€™s,0,0,0,9,1,1,1,1
+187.txt,selection,0,0,-2,9,0,1,0,0
+187.txt,Irori Sushi,0,0,0,11,1,2,0,1
+187.txt,Irori Sushi,0,0,0,11,1,2,0,1
+187.txt,Irori Sushi,0,0,0,11,1,2,0,1
+117.txt,Lasa,0,0,0,4,1,1,0,1
+117.txt,hidden,0,0,0,6,0,1,0,0
+117.txt,Lasa,0,0,0,4,1,1,0,1
+117.txt,prix-fixe,0,0,0,9,0,1,1,0
+117.txt,Lasa,0,0,0,4,1,1,0,1
+83.txt,great restaurant,0,0,0,16,0,2,0,0
+83.txt,Salazar's,0,0,0,9,1,1,1,1
+83.txt,Salazar's,0,0,0,9,1,1,1,1
+83.txt,Sonoran-style,0,0,-2,13,1,1,1,0
+83.txt,carne asada,0,0,0,11,0,2,0,0
+83.txt,flour tortillas,0,-2,0,15,0,2,0,0
+146.txt,Hummus Bar,0,0,0,10,1,2,0,1
+146.txt,Hummus Bar,0,0,0,10,1,2,0,1
+146.txt,quality,0,0,0,7,0,1,0,0
+146.txt,food,0,0,0,4,0,1,0,0
+146.txt,Hummus Bar,0,0,0,10,1,2,0,1
+11.txt,Jun Won,0,-2,-2,7,1,2,0,1
+11.txt,Koreatown,0,-2,0,9,1,1,0,0
+11.txt,Szechuan Impression,0,0,-2,19,1,2,0,1
+11.txt,Chengdu Taste's hegemony,0,0,-2,24,0,3,1,0
+11.txt,Chi Spacca,0,0,0,10,1,2,0,1
+11.txt,Salazar,0,-2,0,7,1,1,0,1
+11.txt,Black Market Liquor Bar,0,0,0,23,1,4,0,1
+11.txt,brick & mortar,0,-2,0,14,0,3,1,0
+81.txt,Citizen,0,0,0,7,1,1,0,1
+81.txt,American menu,0,0,0,13,0,2,0,0
+81.txt,Scott Howard,0,-2,0,12,1,2,0,0
+81.txt,Spanish octopus,0,-2,0,15,0,2,0,0
+81.txt,citizen,0,0,0,7,0,1,0,1
+131.txt,successor,1,-2,0,9,0,1,0,0
+131.txt,likewise,0,0,0,8,0,1,0,0
+131.txt,selection,0,0,-2,9,0,1,0,0
+131.txt,Gwen,0,-2,0,4,1,1,0,1
+131.txt,Gwen,0,0,0,4,1,1,0,1
+131.txt,Maude,0,0,0,5,1,1,0,1
+9.txt,Gwen,0,0,0,4,1,1,0,1
+9.txt,Curtis Stone,0,-2,-2,12,1,2,0,0
+9.txt,Luke Stone,0,0,-2,10,1,2,0,0
+9.txt,meat importer,0,0,0,13,0,2,0,0
+9.txt,Maude,1,-2,0,5,1,1,0,1
+9.txt,Gwen,0,0,0,4,1,1,0,1
+9.txt,Maude,0,0,0,5,1,1,0,1
+9.txt,Gwen,0,0,0,4,1,1,0,1
+102.txt,QUICK PITCH,0,0,0,11,1,2,0,0
+102.txt,Atwater Village,0,-2,0,15,1,2,0,0
+102.txt,Salazarâ€™s,0,0,0,11,1,1,1,1
+102.txt,Aaron Melendrez,0,-2,-2,15,1,2,0,1
+102.txt,The Normandie Club,1,0,0,18,1,3,0,1
+102.txt,INSIDE DISH,0,0,0,11,1,2,0,0
+51.txt,Ledlow,0,-2,0,6,1,1,0,1
+51.txt,cut itself,1,0,0,10,0,2,0,0
+51.txt,P.Y.T.,0,0,0,6,1,1,1,1
+51.txt,The food,0,0,0,8,0,2,0,0
+51.txt,ricotta cavatelli,0,0,0,17,0,2,0,0
+170.txt,Gjelina,0,0,-2,7,1,1,0,1
+170.txt,considering,0,0,-2,11,0,1,0,0
+170.txt,Gjelina,1,0,-2,7,1,1,0,1
+170.txt,Gjelinaâ€™s,0,0,-2,11,1,1,1,1
+170.txt,artisanal,0,0,0,9,0,1,0,0
+172.txt,Osteria Mozza,0,0,0,13,1,2,0,1
+172.txt,Pizzeria Mozza,0,0,0,14,1,2,0,1
+172.txt,visit,1,0,0,5,0,1,0,0
+172.txt,Osteria Mozza,0,0,0,13,1,2,0,1
+172.txt,Pizzeria Mozza,0,0,0,14,1,2,0,1
+172.txt,Batali-quality,0,0,0,14,1,1,1,0
+127.txt,Gjusta,0,0,0,6,1,1,0,1
+127.txt,Gjelina,0,0,-2,7,1,1,0,1
+127.txt,nearby,0,-2,0,6,0,1,0,0
+127.txt,strictly enforced,0,0,0,17,0,2,0,0
+127.txt,Gjelina,0,0,-2,7,1,1,0,1
+125.txt,Erven,0,0,0,5,1,1,0,1
+125.txt,sensation,0,0,-2,9,0,1,0,0
+125.txt,lime-horseradish,0,0,0,16,0,1,1,0
+125.txt,Erven,0,0,0,5,1,1,0,1
+125.txt,Erven,0,0,0,5,1,1,0,1
+128.txt,Terra Cotta,0,0,0,11,1,2,0,1
+128.txt,Terra Cotta,0,0,0,11,1,2,0,1
+128.txt,claim,0,0,0,5,0,1,0,0
+128.txt,Terra Cotta,0,0,0,11,1,2,0,1
+181.txt,Bacari PDR,0,0,0,10,1,2,0,1
+181.txt,unique cocktails,0,-2,0,16,0,2,0,0
+181.txt,Bacari PDR,0,0,0,10,1,2,0,1
+181.txt,hospitality,0,0,0,11,0,1,0,0
+181.txt,Bacari PDR,0,0,0,10,1,2,0,1
