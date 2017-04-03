@@ -1,0 +1,101 @@
+_id,ltable_ID,rtable_ID,ltable_shop name,ltable_postal code,ltable_street address,ltable_phone number,rtable_shop name,rtable_postal code,rtable_street address,rtable_phone number,label
+680,893,4143,Solar de Cahuenga,90028,1847 Cahuenga Blvd,3234677510,Solar de Cahuenga,90028,1847 N Cahuenga Blvd,3234677510,1
+706,941,1169,Fords Filling Station,90015,900 W Olympic Blvd,2137658630,Ford’s Filling Station,90015,900 West Olympic Blvd,2137658600,1
+719,956,993,Palomino - Los Angeles,90024,10877 Wilshire Blvd Ste 150,3102081960,Palomino,90024,10877 Wilshire Blvd,3102081960,1
+731,971,1566,Sweetie Pie's,91601,5230 Lankershim Blvd,8187611325,Sweetie Pie’s NoHo,91601,5230 Lankershim Blvd,8187611325,1
+743,989,1048,Birds Rotisserie Chicken Cafe and Bar,90028,5925 Franklin Ave,3234650175,Birds Rotisserie Chicken Cafe & Bar,90028,5925 Franklin Ave,3234650175,1
+745,993,2397,Taylor's Steakhouse,90005,3361 W 8th St,2133828449,Taylor’s Steakhouse,90005,3361 W 8th St,2133828449,1
+758,1004,3982,Fratelli Cafe,90046,7200 Melrose Ave,3239382233,Fratelli Cafe,90046,7200 Melrose Ave,3239382233,1
+760,1006,1270,Orleans and York Deli,90043,4454 W Slauson Ave,3232918800,Orleans and York Deli,90043,4454 W Slauson Ave,3232918800,1
+770,1025,1787,Denny's,90028,5751 West Sunset Blvd,2134648435,Denny’s,90028,5751 Sunset Blvd,3234648435,1
+793,1067,1121,The Park's Finest,90026,1267 W Temple St,2134182800,The Park’s Finest,90026,1267 W Temple St,2134812800,1
+810,1099,1035,Fundamental,90024,1303 Westwood Blvd,3104447581,fundamental LA,90024,1303 Westwood Blvd,3104447581,1
+842,1163,1541,Spare Tire Kitchen & Tavern,90036,5370 Wilshire Blvd,3235252618,Spare Tire,90036,5370 Wilshire Blvd,3235252618,1
+851,1173,4329,The Wood Cafe,90066,12000 W Washington Blvd,3109159663,The Wood,90066,12000 W Washington Blvd,3109159663,1
+853,1179,1147,Spitz,90012,371 E 2nd St,2136130101,Spitz - Little Tokyo,90012,371 E 2nd St,2136130101,1
+865,1204,1114,Black Cat,90029,3909 W Sunset Blvd,3236616369,The Black Cat,90029,3909 W Sunset Blvd,3236616369,1
+866,1206,1729,Casey's Irish Bar and Grill,,613 South Grand Ave.,2136292353,Casey’s Irish Pub,90017,613 S Grand Ave,2136292353,1
+873,1215,1339,Quality Food & Beverage,90048,8030 W 3rd St,3236585959,Quality Food & Beverage,90048,8030 W 3rd St,3236585959,1
+883,1241,4170,Caffe Etc,90028,6371 Selma Ave,3234648824,Caffe Etc,90028,6371 Selma Ave,3234648824,1
+888,1246,1407,The Melt,90028,6290 W Sunset Blvd,,The Melt Sunset & Vine,90028,6290 Sunset Blvd,2133444906,1
+892,1255,4297,Cafe Brentwood,90049,150 S Barrington Ave,3104720766,Cafe Brentwood,90049,150 S Barrington Ave,3104720766,1
+957,1340,1145,Overland Cafe,90034,3601 Overland Ave,3105599999,The Overland,90034,3601 Overland Ave,3105599999,1
+974,1380,4450,Mimi's Cafe,90039,2925 Los Feliz Blvd,3236681715,Mimi’s Cafe,90039,2925 Los Feliz Blvd,3236681715,1
+995,1431,1384,redwood bar and grill,90012,316 W 2nd St,2136802600,Redwood Bar & Grill,90012,316 W 2nd St,2136802600,1
+1030,1526,1173,Lulu's Cafe,90036,7149 Beverly Blvd,3239386095,Lulu’s Cafe,90036,7149 Beverly Blvd,3239386095,1
+1085,1678,62,El Tepeyac,90033,812 N Evergreen Ave,3232678668,El Tepeyac Cafe,90033,812 N Evergreen Ave,3232681960,1
+1103,1695,174,Calle Tacos,90028,6508 Hollywood Blvd,3234659100,Calle Tacos,90028,6508 Hollywood Blvd,3234659100,1
+1105,1697,55,B.S. Taqueria,90014,514 W 7th St,2136223744,BS Taqueria,90014,514 W 7th St,2136223744,1
+1108,1699,282,Trejo's Tacos,90019,1048 S La Brea Ave,3239388226,Trejo’s Tacos,90019,1048 S La Brea Ave,3239388226,1
+1109,1700,72,Cacao Mexicatessen,90041,1576 Colorado Blvd,3234782791,CaCao Mexicatessen,90041,1576 Colorado Blvd,3234782791,1
+1123,1712,215,El Cholo,90015,1037 S Flower St,2137467750,El Cholo,90015,1037 S Flower St,2137467750,1
+1134,1722,3,Taqueria Los Anaya,90016,4651 W Adams Blvd,3237314070,Taqueria Los Anaya,90016,4651 W Adams Blvd,3237314070,1
+1152,1740,280,Tamayo,90022,5300 E. Olympic Blvd.,3232604700,Tamayo Restaurant,90022,5300 E Olympic Blvd,3232604700,1
+1154,1743,3844,Melody's Mexican Kitchen,91335,6747 Reseda Blvd,8186099062,Melody’s Fresh Mexican Kitchen,91335,6747 Reseda Blvd,8186099062,1
+1160,1748,41,Cascabel,91802,10717 Riverside Dr,8188274210,Cascabel,91602,10717 Riverside Dr,8189274210,1
+1186,1774,3861,El Patron,91356,5545 Reseda Blvd,8186433033,El Patron,91356,5545 Reseda Blvd,8186433033,1
+1187,1775,3570,Camacho's Cantina,,1000 Universal Studios Blvd,8186223333,Camacho’s Cantina,91608,1000 Universal Ctr Dr,8186223333,1
+1194,1778,459,Qdoba Mexican Grill,90017,655 S Hope St,,Qdoba Mexican Grill,90017,655 S Hope St,2135720344,1
+1199,1782,504,Tamara's Tamales,90066,13352 W Washington Blvd,3103057714,Tamara’s Tamales,90066,13352 Washington Blvd,3103057714,1
+1218,1795,229,Diablo Taco,90026,3129 W Sunset Blvd,3236664666,Diablo,90026,3129 W Sunset Blvd,3236664666,1
+1223,1798,309,Benito's Taco Shop,90048,7912 Beverly Blvd,3239387427,Benito’s Taco Shop,90048,7912 Beverly Blvd,3239387427,1
+1229,1803,131,Nina's Mexican Food,90025,1651 Sawtelle Blvd,3104795081,Nina’s Mexican Food,90025,1651 Sawtelle Blvd,3104795081,1
+1276,1843,512,Tacos Los Carnales,90011,4370 S Central Ave,3238461135,Tacos Los Carnales,90011,4370 S Central Ave,3238461135,1
+1325,1906,167,Ciro's Restaurant,90033,705 N Evergreen Ave,3232695104,Ciro’s Restaurant,90033,705 N Evergreen Ave,3232695104,1
+1326,1908,477,Cemitas Poblanas Elvirita,90063,3010 E 1st St,3238810428,Elvirita Cemitas Poblanas,90063,3010 E 1st St,3238810428,1
+1344,1937,247,El Arco Iris,90042,5684 York Blvd,3232543401,El Arco Iris,90042,5684 York Blvd,3232543401,1
+1350,1950,450,LA Fuente,90041,2256 Colorado Blvd,3232584303,La Fuente No 3,90041,2256 Colorado Blvd,3232584303,1
+1351,1950,977,LA Fuente,90041,2256 Colorado Blvd,3232584303,La Fuente Rest Bar & Grill,90041,2256 Colorado Blvd,3232588394,1
+1364,1963,1587,Pizza World,90036,365 S Fairfax Ave,3236532896,Pizza World,90036,365 S Fairfax Ave,3236532896,1
+1366,1964,278,my taco,90042,6300 York Blvd,3232562698,My Taco,90042,6300 York Blvd,3232562698,1
+1430,2015,7,Casa la Dona,90014,800 S Main St,2136277441,Casa La Doña,90014,800 S Main St,2136277441,1
+1512,2106,827,Taco Rapido,90001,7401 S Alameda St,3232779654,El Taco Rapido,90001,7401 Alameda St,3232779497,1
+1530,2111,343,Maria's Mexican Restaurant,90731,2215 S Pacific Ave,3108336666,Mariscos Maria’s Restaurant,90007,2215 S Vermont Ave,3237313108,1
+1534,2115,3659,El Gallo Giro,91402,8309 Van Nuys Blvd,8188915533,El Gallo Giro,91402,8309 Van Nuys Blvd,8188915533,1
+1555,2144,302,Cilantro Always Fresh Mexican Grill,90015,1359 S Main St,2137483900,Cilantro Always Fresh,90057,1359 S Main St,2137483900,1
+1577,2181,139,Lupita's Restaurant Idell,90065,2634 Idell Street,3232237835,Lupita’s Restaurant,90065,2634 Idell St,3232237835,1
+1582,2190,260,La Barbacha,90033,2510 E Cesar E Chavez Ave,3232641451,La Barbacha,90033,2510 E Cesar Chavez Ave,3232641451,1
+1605,2212,639,El Kiosko Mexican Grill & Events,90063,3534 E 1st St,3232663301,El Kiosko Mexican Grill,90063,3534 E First St,3232663301,1
+1648,2282,110,Garduno's Taco Queen,90022,5144 E Beverly Blvd,3232684480,Fish Taco Express,90022,5144 E Beverly Blvd,3232648233,1
+1652,2290,1968,Shin Ramen,90028,1655 N La Brea Ave,3238744692,Shin Ramen,90028,1655 N La Brea Ave,3238744692,1
+1663,2301,4522,Mikawaya,90012,118 Japanese Village Plaza Mall,2136241681,Mikawaya,90012,118 Japanese Village Plaza Mall,2136241681,1
+1691,2345,1927,Kabosu,,10155 Riverside Dr,8186234425,Kabosu,91602,10155 Riverside Dr,8186234425,1
+1712,2389,2265,Mia Sushi,90041,4741 Eagle Rock Blvd,3232562562,Mia Sushi,90041,4741 Eagle Rock Blvd,3232562562,1
+1735,2454,1249,Bossa Nova,90046,7181 W Sunset Blvd,3234367999,Bossa Nova on Sunset,90046,7181 W Sunset Blvd,3234367999,1
+1736,2456,1447,Maccheroni Republic,90013,332 S Broadway,2133469725,Maccheroni Republic,90013,332 S Broadway,2133469725,1
+1741,2459,2459,The Factory Kitchen,90013,1300 Factory Pl Ste 101,2139966000,The Factory Kitchen,90013,1300 Factory Pl,2139966000,1
+1789,2506,2549,800 Degree,90024,10889 Lindbrook Dr,4242395010,800 Degrees Neapolitan Pizzeria,90024,10889 Lindbrook Dr,3104431911,1
+1797,2514,1747,Jon & Vinny's,90036,412 N Fairfax Ave,3233343369,Jon & Vinny’s,90036,412 N Fairfax Ave,3233343369,1
+1802,2519,3341,Neil's Pasta & Seafood Grill,90731,383 W 5th St,3105483495,Neil’s Pasta & Seafood Grill,90731,383 W 5th St,3105483495,1
+1808,2526,2535,Pitfire Pizza Company,90046,801 N Fairfax Ave,3235446240,Pitfire Artisan Pizza,90046,801 N Fairfax Ave,3235446240,1
+1810,2528,2499,Village Pizzeria,90004,131 N Larchmont Blvd,3234655566,Village Pizzeria,90004,131 N Larchmont Blvd,3234655566,1
+1820,2539,2495,La Bruschetta Ristorante,90024,1621 Westwood Blvd,3104771052,La Bruschetta Ristorante,90024,1621 Westwood Blvd,3104771052,1
+1822,2541,2515,Alimento,90026,1720 Silver Lake Blvd,,Alimento,90026,1710 Silver Lake Blvd,3239282888,1
+1837,2551,2729,Antonio's Pizzeria & Italian Restaurant,91423,13619 Ventura Blvd,8187881103,Antonio’s Pizzeria & Italian Restaurant,91423,13619 Ventura Blvd,8187881103,1
+1847,2559,3171,Pizza Studio,90007,3584 S Figueroa St,2137636123,Domino’s Pizza,90007,2803 S Figueroa St,2137469999,1
+1866,2581,3337,Sorrento's Pizza House,90732,2428 S Western Ave,3105475129,Sorrento’s Restaurant,90732,2428 S Western Ave,3108322820,1
+1882,2594,3119,Reno's Pizzeria & Restaurant,91604,11412 Ventura Blvd,8187631088,Reno’s Pizzeria & Restaurant,91604,11412 Ventura Blvd,8187631088,1
+1886,2599,2509,Enzo & Angela,90025,11701 Wilshire Blvd,3104773880,Enzo & Angela,90025,11701 Wilshire Blvd,3104773880,1
+1902,2609,2795,Deanos Gourmet Pizza,90036,6333 West 3rd Street,3239356373,Deano’s Gourmet Pizza,90036,6333 W 3rd St,3239356373,1
+1905,2611,3043,Nicola's Kitchen,91364,20969 Ventura Blvd Ste 14,8188839477,Nicola’s Kitchen,91364,20969 Ventura Blvd,8188839477,1
+1926,2632,2640,Apollonia's Pizzeria,90036,5176 Wilshire Blvd,,Apollonia’s Pizzeria,90036,5176 Wilshire Blvd,3239372823,1
+1948,2659,2642,Hi Pizza Italian Kitchen,90004,119 S Western Ave,2133805757,Hi Pizza Italian Kitchen,90004,119 S Western Ave,2133805757,1
+1955,2679,1292,Aroma,90026,2903 West Sunset Blvd,3236442833,Aroma Restaurant,90026,2903 W Sunset Blvd,3236442833,1
+1978,2700,2845,Crispy Crust,90038,1253 Vine St,3234672000,Crispy Crust,90038,1253 N Vine St,3234672000,1
+2006,2729,2531,Lucia's Cafe,90024,10974 Le Conte Ave,3104430123,Lucia’s Cafe,90024,10974 Le Conte Ave,3104430123,1
+2013,2744,70,Amalfi Restaurant and Bar,90036,143 N La Brea Ave,3239382504,Candela Taco Bar & Lounge,90036,831 S La Brea Ave,3239360533,1
+2019,2747,2580,A Little Taste of Hoboken,90064,2323 Westwood Blvd,3104741109,Hoboken,90064,2323 Westwood Blvd,3104741109,1
+2040,2779,2455,Frankie's on Melrose,90046,7228 Melrose Ave,3239372801,Frankie’s,90046,7228 Melrose Ave,3239372801,1
+2050,2790,2961,Adrian's Trattoria,91335,17709 Vanowen St,8188811846,Adrian’s Trattoria,91335,17709 Vanowen St,8188811846,1
+2085,2896,1341,Carlitos Gardel,90046,7963 Melrose Ave,3236550891,Carlitos Gardel,90046,7963 Melrose Ave,3236550891,1
+2112,2919,3381,Bar Moruno,90013,317 S Broadway,3233721220,Bar Moruno,90013,317 S Broadway,3233721220,1
+2113,2920,3388,Beso,90028,6350 Hollywood Blvd,3234677991,Beso Restaurant - Temp. CLOSED,90028,6350 Hollywood Blvd,,1
+2143,2937,521,Cabo Cantina,90028,6669 Hollywood Blvd,3233662565,Cabo Cantina,90028,6669 Hollywood Blvd,3233662565,1
+2149,2947,1217,Bacaro LA,90007,2308 S Union Ave,2137487205,Bacaro LA,90007,2308 S Union Ave,2137487205,1
+2153,2951,3434,Qusqo Bistro & Gallery,90025,11633 Santa Monica Blvd,3103123800,Qusqo Bistro and Gallery,90025,11633 Santa Monica Blvd,3103123800,1
+2210,2981,4117,Le Pain Quotidien,90014,523 W 6th St,2132931546,Le Pain Quotidien - Downtown,90017,523 W 6th St,2132931546,1
+2274,3029,4598,Hollywood Rock Cafe,90028,6511 Hollywood Blvd,3233452600,Hollywood Rock Cafe,90028,6511 Hollywood Blvd,3233452600,1
+2288,3043,1417,Brasil Kiss,90017,1010 Wilshire Blvd,,Brasil Kiss Coffeebar,90017,1010 Wilshire Blvd,2137855131,1
+2293,3049,4040,Barista Society,90071,633 W 5th St,2134443389,Batavia by Barista Society,90071,"633 W 5th St, 2nd Fl",2134443389,1
+2311,3080,4461,Los Angeles Police Revolver and Athletic Club Cafe,90012,1880 Academy Dr,3232215222,Los Angeles Police Revolver & Athletic Club Cafe - Temp. CLOSED,90012,1880 Academy Dr,3232215222,1
+2313,3087,4216,Delicious Arts,90064,10581 1/2 W Pico Blvd,,Delicious Arts,90064,10581 1/2 W Pico Blvd,4242562006,1
