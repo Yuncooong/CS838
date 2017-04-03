@@ -45,7 +45,6 @@
 	    <li><a href="#home" class="smoothScroll">Home</a></li>
       <li><a href="#stage1" class="smoothScroll">Stage I</a></li>
       <li><a href="#stage2" class="smoothScroll">Stage II</a></li>
-      <li><a href="#stage3" class="smoothScroll">Stage III</a></li>
 	   	<li> <a href="#team" class="smoothScroll"> Team</a></li>
 	    
 	  </ul>
@@ -97,10 +96,38 @@
   </div> 
 
 
+<!-- ==== STAGE II ==== -->
+  <div class="container" id="stage2" name="stage2">
+    <br>
+    <br>
+    <div class="row">
+  <h2 class="centered">Stage II</h2>
+  <hr>
+  <br>
+  <div class="col-lg-offset-2 col-lg-8 col-md-6">
+    <p>In this stage, we extracted the resturant name from 313 text files.
+    </p>
+    <p> We marked the restaurant name as positive entities with mark as "{}", and chose the close number of other words as negative entities with mark as "[]".
+        After seperating the 313 text files to two sets, we applied machine learning of 5 different methods on the training set with ~200 text files, and test the 
+        performance of our classifier on the test set with ~100 text files.
+    </p>
+  </div>
+  <div class="col-lg-offset-2 col-lg-8 col-md-6">
+    <p> Our classifier implementation, please click here: </p>
+    <a class="btn btn-accent btn-large" href="https://github.com/Yuncooong/CS838/blob/master/vector.py">Vector Generation</a>
+    <a class="btn btn-accent btn-large" href="https://github.com/Yuncooong/CS838/blob/master/model.py">Model Testing</a>
+    <p> Our marked text files, please click here: </p>
+    <a class="btn btn-accent btn-large" href="https://github.com/Yuncooong/CS838/tree/master/doc">Review Text File</a>
+    
+    <p> Please check our stageI report here: </p>
+    <a class="btn btn-accent btn-large" href="https://github.com/Yuncooong/CS838/blob/master/StageII_Report.pdf">StageII report</a> 
+  </div><!-- col-lg -->
+    </div><!-- row -->
+  </div> 
 
 
-<!-- ==== STAGE III ==== -->
-  <div class="container" id="stage3" name="stage3">
+  <!-- ==== STAGE II ==== -->
+  <div class="container" id="stage2" name="stage2">
     <br>
     <br>
     <div class="row">
@@ -108,20 +135,20 @@
   <hr>
   <br>
   <div class="col-lg-offset-2 col-lg-8 col-md-6">
-    <p>In this stage, We did entity matching of the data we extracted from the two websites.
+    <p>In this stage, we did entity matching of the data we extracted from the two websites.
     </p>
-    <p> We performed a blocking step before matching to reduce the potential matching pairs. We marked 250 pairs, and seperate the set into 150 pairs for evaluating and 100 pairs for testing.
+    <p> We did a blocking step before we establish our matcher to reduce the potential pairs. We marked 250 pairs we divided them into a developing set and a test set.
     </p>
   </div>
   <div class="col-lg-offset-2 col-lg-8 col-md-6">
-    <p> Our Code directory, please click here: </p>
-    <a class="btn btn-accent btn-large" href="https://github.com/Yuncooong/CS838/blob/master/vector.py">Vector Generation</a>
-    <a class="btn btn-accent btn-large" href="https://github.com/Yuncooong/CS838/blob/master/model.py">Model Testing</a>
-    <p> Our Data directory, please click here: </p>
-    <a class="btn btn-accent btn-large" href="https://github.com/Yuncooong/CS838/tree/master/doc">Review Text File</a>
+    <p> Our data dirctory, please click here: </p>
+    <a class="btn btn-accent btn-large" href="https://github.com/Yuncooong/CS838/tree/master/stage3/data">Data Directory</a>
+   
+    <p> Our code directory, please click here: </p>
+    <a class="btn btn-accent btn-large" href="https://github.com/Yuncooong/CS838/tree/master/stage3/code">Code Directory</a>
     
     <p> Please check our stageIII report here: </p>
-    <a class="btn btn-accent btn-large" href="https://github.com/Yuncooong/CS838/blob/master/StageIII_Report.pdf">StageIII report</a> 
+    <a class="btn btn-accent btn-large" href="https://github.com/Yuncooong/CS838/blob/master/stage3/StageIIIReport.pdf">StageIII report</a> 
   </div><!-- col-lg -->
     </div><!-- row -->
   </div> 
